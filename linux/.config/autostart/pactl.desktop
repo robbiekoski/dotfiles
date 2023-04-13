@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=pactl set-default-sink alsa_output.pci-0000_0a_00.4.analog-stereo
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=Set default audio output
+Name=Set default audio output
+Comment[en_US]=Set default audio output
+Comment=Set default audio output
